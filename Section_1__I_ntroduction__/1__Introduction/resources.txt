@@ -1,0 +1,2 @@
+django-angular
+https://github.com/Gpzim98/django-angular

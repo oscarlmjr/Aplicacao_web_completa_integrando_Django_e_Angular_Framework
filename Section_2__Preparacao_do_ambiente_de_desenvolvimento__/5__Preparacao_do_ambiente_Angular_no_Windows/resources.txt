@@ -1,0 +1,7 @@
+Node.js
+https://nodejs.org/pt-br
+
+Install Angular CLI
+https://angular.dev/installation
+npm install -g @angular/cli
+ng new <project-name>

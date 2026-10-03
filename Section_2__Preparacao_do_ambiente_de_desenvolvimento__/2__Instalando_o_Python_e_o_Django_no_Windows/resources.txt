@@ -1,0 +1,5 @@
+Python
+https://www.python.org/
+
+Django Download
+https://www.djangoproject.com/download/
